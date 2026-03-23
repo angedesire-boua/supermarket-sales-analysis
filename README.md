@@ -81,22 +81,6 @@ The dashboard includes:
 The dashboard allows users to explore the data interactively and gain insights into business performance.
 
 ---
-
-## Project Structure
-
-data-science-portfolio
-
-├── supermarket-sales-analysis
-│   ├── data
-│   ├── notebook
-│   ├── powerbi-dashboard
-│   ├── images
-│   └── README.md
-		rapport_projet.pdf
-
-
----
-
 ## Business Value
 
 This project demonstrates how data analysis and visualization can support business decision-making by identifying trends, customer preferences, and sales performance.
