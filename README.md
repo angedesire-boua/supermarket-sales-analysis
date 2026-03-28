@@ -1,103 +1,119 @@
-# Supermarket Sales Analysis
+# 🛒 Analyse des ventes d’un supermarché
 
-## Project Overview
+## 📌 Vue d’ensemble du projet
 
-This project analyzes supermarket sales data using **Python for data exploration** and **Power BI for interactive visualization**.  
+Ce projet porte sur l’analyse des ventes d’un supermarché à l’aide de **Python pour l’exploration des données** et de **Power BI pour la visualisation interactive**.
 
-The objective is to extract meaningful insights from transactional data and build a dashboard that helps understand sales performance, customer behavior, and product trends.
+L’objectif principal est d’extraire des **insights pertinents** à partir des données transactionnelles et de construire un **dashboard interactif** permettant de mieux comprendre :
 
----
-
-## Dataset
-
-The dataset contains transactional sales information including:
-
-- City of purchase
-- Product category
-- Quantity sold
-- Total sales
-- Payment method
-- Customer rating
-- Date and time of transaction
-
-This data enables a comprehensive analysis of sales patterns and customer behavior.
+- les performances commerciales
+- le comportement des clients
+- les tendances de vente
+- les catégories de produits les plus performantes
 
 ---
 
-## Tools & Technologies
+## 📂 Jeu de données
 
-The following tools were used in this project:
+Le jeu de données contient des informations transactionnelles sur les ventes, notamment :
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Power BI
+- la **ville d’achat**
+- la **catégorie de produit**
+- la **quantité vendue**
+- le **montant total des ventes**
+- le **mode de paiement**
+- la **note de satisfaction client**
+- la **date et l’heure de la transaction**
 
----
-
-## Data Analysis
-
-Exploratory Data Analysis (EDA) was performed using Python to understand the structure of the dataset and identify patterns in the data.
-
-Key analyses include:
-
-- Sales by product category
-- Sales by city
-- Payment method distribution
-- Sales evolution over time
-- Customer satisfaction analysis
+Ces données permettent de réaliser une analyse complète des habitudes d’achat et des performances commerciales.
 
 ---
 
-## Key Insights
+## 🛠️ Outils et technologies utilisés
 
-Some important insights obtained from the analysis:
+Les outils suivants ont été utilisés dans ce projet :
 
-- Certain product categories generate higher sales revenue.
-- Sales are relatively balanced across the different cities.
-- Customers use multiple payment methods including cash, credit cards, and e-wallets.
-- Sales fluctuate over time depending on transaction activity.
-- The average customer satisfaction rating is approximately **6.97 / 10**.
-
----
-
-## Power BI Dashboard
-
-An interactive **Power BI dashboard** was created to visualize key business metrics.
-
-The dashboard includes:
-
-- Total sales KPI
-- Total quantity sold
-- Customer satisfaction score
-- Sales by city
-- Sales by product category
-- Payment method distribution
-- Sales evolution over time
-- Sales performance gauge
-
-The dashboard allows users to explore the data interactively and gain insights into business performance.
-
----
-## Business Value
-
-This project demonstrates how data analysis and visualization can support business decision-making by identifying trends, customer preferences, and sales performance.
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+- **Jupyter Notebook**
+- **Power BI**
 
 ---
 
-## Dashboard Preview
-![Dashbord](images/dashboard_preview.png)
-![Dashbord](images/dashboard_preview2.png)
+## 📊 Analyse des données
 
+Une **analyse exploratoire des données (EDA)** a été réalisée avec Python afin de mieux comprendre la structure du dataset et d’identifier des tendances significatives.
 
-## Author
+### Principales analyses réalisées :
+
+- ventes par **catégorie de produit**
+- ventes par **ville**
+- répartition des **modes de paiement**
+- évolution des ventes **dans le temps**
+- analyse de la **satisfaction client**
+
+---
+
+## 🔍 Principaux enseignements
+
+L’analyse a permis de mettre en évidence plusieurs constats importants :
+
+- certaines catégories de produits génèrent un **chiffre d’affaires plus élevé**
+- les ventes sont relativement **équilibrées entre les différentes villes**
+- les clients utilisent plusieurs modes de paiement tels que :
+  - espèces
+  - carte bancaire
+  - portefeuille électronique
+- les ventes évoluent dans le temps selon l’activité transactionnelle
+- la note moyenne de satisfaction client est d’environ **6,97 / 10**
+
+---
+
+## 📈 Dashboard Power BI
+
+Un **dashboard interactif Power BI** a été conçu afin de visualiser les principaux indicateurs métier.
+
+### Le tableau de bord comprend :
+
+- un **KPI du chiffre d’affaires total**
+- la **quantité totale vendue**
+- le **score moyen de satisfaction client**
+- les ventes par **ville**
+- les ventes par **catégorie de produit**
+- la répartition des **modes de paiement**
+- l’évolution des ventes dans le temps
+- une jauge de **performance commerciale**
+
+Ce dashboard permet une **exploration interactive des données** et facilite la compréhension des performances de vente.
+
+---
+
+## 💼 Valeur métier
+
+Ce projet montre comment l’analyse et la visualisation des données peuvent aider à la **prise de décision en entreprise**.
+
+Grâce à cette analyse, il est possible de :
+
+- identifier les tendances de vente
+- comprendre les préférences des clients
+- suivre les performances commerciales
+- améliorer les décisions basées sur les données
+
+---
+
+## 🖼️ Aperçu du dashboard
+
+![Dashboard](images/dashboard_preview.png)
+![Dashboard](images/dashboard_preview2.png)
+
+---
+
+## 👨‍💻 Auteur
 
 **Ange Désiré Boua**  
-Master’s Student in Big Data & Artificial Intelligence  
-Institut Universitaire d'Abidjan
+Étudiant en **Master Big Data & Intelligence Artificielle**  
+**Institut Universitaire d’Abidjan**
 
-Email: angedesireboua@gmail.com
-
-[def]: images/dashboard_preview.png
+📧 Email : **angedesireboua@gmail.com**
