@@ -1,4 +1,4 @@
-# 🛒 Analyse des ventes d’un supermarché
+# 🛒 Analyse des ventes d’un supermarché (Python - Power BI)
 
 ## 📌 Vue d’ensemble du projet
 
