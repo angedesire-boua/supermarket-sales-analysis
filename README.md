@@ -1,6 +1,6 @@
 # 🛒 Analyse des ventes d’un supermarché (Python - Power BI)
 
-## 📌 Vue d’ensemble du projet
+##  Vue d’ensemble du projet
 
 Ce projet porte sur l’analyse des ventes d’un supermarché à l’aide de **Python pour l’exploration des données** et de **Power BI pour la visualisation interactive**.
 
@@ -13,7 +13,7 @@ L’objectif principal est d’extraire des **insights pertinents** à partir de
 
 ---
 
-## 📂 Jeu de données
+##  Jeu de données
 
 Le jeu de données contient des informations transactionnelles sur les ventes, notamment :
 
@@ -29,7 +29,7 @@ Ces données permettent de réaliser une analyse complète des habitudes d’ach
 
 ---
 
-## 🛠️ Outils et technologies utilisés
+##  Outils et technologies utilisés
 
 Les outils suivants ont été utilisés dans ce projet :
 
@@ -42,7 +42,7 @@ Les outils suivants ont été utilisés dans ce projet :
 
 ---
 
-## 📊 Analyse des données
+##  Analyse des données
 
 Une **analyse exploratoire des données (EDA)** a été réalisée avec Python afin de mieux comprendre la structure du dataset et d’identifier des tendances significatives.
 
@@ -56,7 +56,7 @@ Une **analyse exploratoire des données (EDA)** a été réalisée avec Python a
 
 ---
 
-## 🔍 Principaux enseignements
+##  Principaux enseignements
 
 L’analyse a permis de mettre en évidence plusieurs constats importants :
 
@@ -71,7 +71,7 @@ L’analyse a permis de mettre en évidence plusieurs constats importants :
 
 ---
 
-## 📈 Dashboard Power BI
+##  Dashboard Power BI
 
 Un **dashboard interactif Power BI** a été conçu afin de visualiser les principaux indicateurs métier.
 
@@ -90,7 +90,7 @@ Ce dashboard permet une **exploration interactive des données** et facilite la 
 
 ---
 
-## 💼 Valeur métier
+##  Valeur métier
 
 Ce projet montre comment l’analyse et la visualisation des données peuvent aider à la **prise de décision en entreprise**.
 
@@ -103,17 +103,17 @@ Grâce à cette analyse, il est possible de :
 
 ---
 
-## 🖼️ Aperçu du dashboard
+##  Aperçu du dashboard
 
 ![Dashboard](images/dashboard_preview.png)
 ![Dashboard](images/dashboard_preview2.png)
 
 ---
 
-## 👨‍💻 Auteur
+##  Auteur
 
 **Ange Désiré Boua**  
 Étudiant en **Master Big Data & Intelligence Artificielle**  
 **Institut Universitaire d’Abidjan**
 
-📧 Email : **angedesireboua@gmail.com**
+ Email : **angedesireboua@gmail.com**
